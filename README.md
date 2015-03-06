@@ -30,4 +30,4 @@ In a way, Business arrival, agreements, understandings, feature offering discuss
 
 !! If this works
 
-[USECASES](USECASES.md)
+[USECASES](./USECASES.md)
