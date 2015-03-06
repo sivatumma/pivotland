@@ -1,2 +1,2 @@
 # pivotland
-Contains Small chuncks of codes to solve specific problems
+Contains Small chunks of code to solve specific problems
