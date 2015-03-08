@@ -8,10 +8,16 @@ The signing of applications and securing will be taken care of and intimated to 
 
 This script should also be able to take key files or security certificates etc.
 
-### Script that resizes all image files in a folder recursively
+### Resizes all image files in a folder recursively
 written in python. Useful to make thumbnails and icons for websites.
 
-### Script to crawl only images over web
+### Crawl only images over web
 
-### Script to crawl only music over web, etc. 
+### Crawl only music over web, etc. 
 Uses curl's regex capabilities
+
+#### iPhone like transition
+Components to hold their icons and zoom-out kind of app start when selected
+
+#### Todo with database inclusion
+Fully functional Personal Assistant - includes siri interface
