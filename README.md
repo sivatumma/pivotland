@@ -31,7 +31,7 @@ In a way, Business arrival, agreements, understandings, feature offering discuss
 !! If this works
 
 #### Folder structure
-![Pivotland folder structure](./images/folder-structure.png "Pivotland application folder structure")
+![Pivotland folder structure](./images/folder-structure.png "Pivotland application folder structure")   
 A problem can be solved on any competency including any powershell scripting language. The deployment area of this application will be holding all things in an executable way so that all shells can be executed including any programming languages.
 
 
